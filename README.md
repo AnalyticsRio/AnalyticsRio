@@ -1,7 +1,7 @@
-# Hi there 🤙🏽 Nice to meet you!
+# Hi bro 🤙🏽 Nice to meet you!
 
 ### About Me
-I'm a Web Analytics Consultant at Claro Brasil, one of the largest telecommunications companies in the country. And I'm responsible for analyzing data from the entire product area of the Mobile Tribe of the e-commerce division, supporting the definition and measurement of OKRs, monitoring user experience through CRO, and managing the implementation and tracking of tags. I have a bachelor's degree in Production Engineering and currently pursuing an MBA in Data Science and Analytics at USP/Esalq, where I am learning new aspects of data analysis that I have yet to explore.
+I'm a Data Analyst. Currently I am working in Claro Brasil, one of the largest telecommunications companies in the country. And I'm responsible for analyzing data from the entire product area of the Mobile Tribe of the e-commerce division, supporting the definition and measurement of OKRs, monitoring user experience through CRO, and managing the implementation and tracking of tags. I have a bachelor's degree in Production Engineering and currently pursuing an MBA in Data Science and Analytics at USP/Esalq, where I am learning new aspects of data analysis that I have yet to explore.
 
 With over 8 years of experience in the field of data analysis, I've worked with prominent companies in Brazil, such as S2 Holding, Grupo Inbrands, Dominos, PUC-RJ, Esporte Interativo, Outer Shoes, and more. I have always leveraged data collection tools to uncover valuable insights that facilitate decision-making and enable the transformation of data into actionable strategies for his clients. 
 
